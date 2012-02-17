@@ -1,0 +1,6 @@
+1. Run the server with
+`
+coffee server.coffee
+`
+
+2. Checkout nciagra/shopify/admin2-special-surprise and run admin2 from there.
